@@ -1,2 +1,2 @@
 # Employee-Salary-Dashboard
-Ushbu dashboard kompaniya xodimlarining oylik maoshlarini tahlil qilish uchun ishlab chiqilgan bo‘lib, bo‘limlar, lavozimlar va yillik o‘sish dinamikasini vizual tarzda taqdim etadi.  Dashboard HR mutaxassislari, kompaniya rahbariyati va analitiklarga tezkor qarorlar qabul qilishda yordam beradi.
+This dashboard is designed to analyze the monthly salaries of company employees, visually presenting the dynamics of departments, positions and annual growth. The dashboard helps HR specialists, company management and analysts make quick decisions.
